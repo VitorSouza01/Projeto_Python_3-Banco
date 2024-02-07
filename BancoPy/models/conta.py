@@ -1,5 +1,5 @@
-from BancoPy.models.cliente import Cliente
-from BancoPy.utils.helper import formata_float_str_moeda
+from Projeto_Python_3_Banco.BancoPy.models.cliente import (Cliente)
+from Projeto_Python_3_Banco.BancoPy.utils.helper import formata_float_str_moeda
 
 
 class Conta:

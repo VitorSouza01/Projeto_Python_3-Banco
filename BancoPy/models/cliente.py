@@ -1,6 +1,6 @@
 from datetime import date
 
-from BancoPy.utils.helper import date_para_str, str_para_date
+from Projeto_Python_3_Banco.BancoPy.utils.helper import date_para_str, str_para_date
 
 
 class Cliente:
